@@ -2,7 +2,7 @@ import { Pinecone } from "@pinecone-database/pinecone"
 import {config} from "dotenv"
 import path from "path"
 // Load environment variables from .env.locale file
-config({ path: path.resolve(__dirname, '../../../.env.locale') })
+config({ path: path.resolve(__dirname, '../../../.env') })
 
 // Initialize Pinecone client
 export const getPineconeClient = () => {

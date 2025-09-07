@@ -5,7 +5,8 @@ import products from "../data/products.json"
 import { getPineconeClient } from "../lib/pinecone"
 import { InferenceClient } from "@huggingface/inference"
 // Load environment variables from .env.locale file
-config({ path: path.resolve(__dirname, '../../../.env.locale') })
+config({ path: path.resolve(__dirname, '../../../.env') })
+
 
 
 const seedPinecone = async () => {

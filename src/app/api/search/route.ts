@@ -2,8 +2,7 @@ import { getPineconeClient } from "@/app/lib/pinecone";
 import { InferenceClient } from "@huggingface/inference"
 import { NextResponse } from "next/server";
 
-
-export const Post = async (req: Request) => {
+export async function POST(req: Request) {
     try {
         const hf = new InferenceClient(process.env.HF_TOKEN); // Ensure HF_TOKEN is defined
 
@@ -11,7 +10,7 @@ export const Post = async (req: Request) => {
 
         // Add necessary parameters here to generate embeddings from query
         const embeddings = await hf.featureExtraction({
-            model: process.env.EMBEDDING_MODEL!,
+            model: process.env.EMBEDDING_MODEL,
             inputs: query
         });
 
@@ -28,13 +27,12 @@ export const Post = async (req: Request) => {
         }
 
         // Get properly formatted embedding
-        const formattedEmbedding = normalizeEmbedding(embeddings[0]);
-
+        const formattedEmbedding = Array.isArray(embeddings[0]) ? embeddings[0] : embeddings;
         // Query Pinecone with the formatted embedding
         const indexName = process.env.PINECONE_INDEX_NAME || "";
         const pinecone = getPineconeClient();
         const results = await pinecone.Index(indexName).query({
-            vector: formattedEmbedding,
+            vector: formattedEmbedding as number[],
             topK: 10,
             includeMetadata: true,
         });
