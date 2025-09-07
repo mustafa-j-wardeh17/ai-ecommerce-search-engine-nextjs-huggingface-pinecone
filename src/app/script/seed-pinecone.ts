@@ -8,7 +8,6 @@ import { InferenceClient } from "@huggingface/inference"
 config({ path: path.resolve(__dirname, '../../../.env') })
 
 
-
 const seedPinecone = async () => {
     try {
         // Initialize Pinecone client

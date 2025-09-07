@@ -33,7 +33,7 @@ export async function POST(req: Request) {
         const pinecone = getPineconeClient();
         const results = await pinecone.Index(indexName).query({
             vector: formattedEmbedding as number[],
-            topK: 10,
+            topK: 100,
             includeMetadata: true,
         });
 

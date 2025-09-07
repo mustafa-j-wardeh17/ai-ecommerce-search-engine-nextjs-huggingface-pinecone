@@ -7,10 +7,18 @@
         "category": "Footwear",
         "brand": "Nike",
         "rating": 4.6,
-        "colors": ["black", "white", "blue"],
-        "features": ["Air Max cushioning", "Breathable mesh upper", "Rubber outsole"],
+        "colors": [
+            "black",
+            "white",
+            "blue"
+        ],
+        "features": [
+            "Air Max cushioning",
+            "Breathable mesh upper",
+            "Rubber outsole"
+        ],
         "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/awjogtdnqxniqqk0wpgf/air-max-270-mens-shoes-KkLcGR.png"
+        "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/cb1951e7-0600-4f7a-9b26-12be8cd2bd01/W+AIR+MAX+270.png"
     },
     {
         "id": 2,
@@ -20,10 +28,18 @@
         "category": "Footwear",
         "brand": "Nike",
         "rating": 4.8,
-        "colors": ["white", "black", "red"],
-        "features": ["Premium leather upper", "Air-Sole unit", "Pivot points for traction"],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "features": [
+            "Premium leather upper",
+            "Air-Sole unit",
+            "Pivot points for traction"
+        ],
         "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-mens-shoes-jBrhbr.png"
+        "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png"
     },
     {
         "id": 3,
@@ -33,101 +49,38 @@
         "category": "Footwear",
         "brand": "Nike",
         "rating": 4.5,
-        "colors": ["gray", "pink", "blue"],
-        "features": ["React foam", "Flyknit upper", "Wider forefoot"],
+        "colors": [
+            "gray",
+            "pink",
+            "blue"
+        ],
+        "features": [
+            "React foam",
+            "Flyknit upper",
+            "Wider forefoot"
+        ],
         "inSock": false,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/33b07b9c-6336-4a8e-af50-92e7df9c77ee/react-infinity-run-flyknit-3-mens-road-running-shoes-ZQGSLp.png"
+        "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/a2ad85fe-51cc-462a-9b33-76add33004a4/W+NIKE+REACT+INFINITY+RUN+FK+3.png"
     },
     {
         "id": 4,
-        "name": "Nike Dunk Low",
-        "description": "Created for the hardwood but taken to the streets, the Nike Dunk Low returns with crisp overlays.",
+        "name": "Men's CAT Threshold Steel Toe Waterproof Boots",
+        "description": "Rugged and durable, these boots are designed to keep your feet protected in tough conditions.",
         "price": 100.00,
         "category": "Footwear",
-        "brand": "Nike",
+        "brand": "CAT",
         "rating": 4.7,
-        "colors": ["white", "black", "green"],
-        "features": ["Classic basketball look", "Perforated toe box", "Durable construction"],
+        "colors": [
+            "black",
+            "brown stain"
+        ],
+        "features": [
+            "Waterproof",
+            "Steel toe",
+            "Slip-resistant outsole"
+        ],
         "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b1bcbca4-e853-4df7-b329-5be3c61ee057/dunk-low-mens-shoes-DWJNM0.png"
-    },
-    {
-        "id": 5,
-        "name": "Nike Pegasus 39",
-        "description": "The Nike Air Zoom Pegasus 39 continues the legacy of the workhorse running shoe.",
-        "price": 130.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.4,
-        "colors": ["blue", "orange", "black"],
-        "features": ["Zoom Air units", "React foam midsole", "Engineered mesh upper"],
-        "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fb7eda3c-5ac8-4d05-a18f-1c2c5e82e36e/air-zoom-pegasus-39-mens-road-running-shoes-JgVKc7.png"
-    },
-    {
-        "id": 6,
-        "name": "Nike Blazer Mid '77 Vintage",
-        "description": "The Nike Blazer Mid '77 Vintage adds a retro touch to your style with its classic basketball design.",
-        "price": 100.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.6,
-        "colors": ["white", "black", "navy"],
-        "features": ["Vintage styling", "Suede accents", "Rubber cupsole"],
-        "inSock": false,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7ea972c4-d2b6-4b85-ab07-9f3b8f8c0b7e/blazer-mid-77-vintage-mens-shoes-nw30B2.png"
-    },
-    {
-        "id": 7,
-        "name": "Nike Air Jordan 1 Low",
-        "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look.",
-        "price": 90.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.7,
-        "colors": ["white", "red", "black"],
-        "features": ["Premium leather", "Air cushioning", "Iconic silhouette"],
-        "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8dc8c7c2-68f8-4b85-9b94-4b2c7a8b9c0d/air-jordan-1-low-mens-shoes-6Q4T4j.png"
-    },
-    {
-        "id": 8,
-        "name": "Nike Free RN 5.0",
-        "description": "The Nike Free RN 5.0 provides a natural, barefoot-like feel for your runs.",
-        "price": 100.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.3,
-        "colors": ["gray", "blue", "pink"],
-        "features": ["Flexible outsole", "Lightweight design", "Breathable upper"],
-        "inSock": false,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9c8d7b6a-5f4e-3c2b-8a1d-9e0f8g7h6i5j/free-rn-5-mens-running-shoes-8Q2W3E.png"
-    },
-    {
-        "id": 9,
-        "name": "Nike Cortez",
-        "description": "The Nike Cortez is a classic running shoe that has transcended sport to become a streetwear staple.",
-        "price": 70.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.5,
-        "colors": ["white", "red", "blue"],
-        "features": ["EVA midsole", "Herringbone outsole", "Classic design"],
-        "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a8b7c6d5-e4f3-2g1h-9i0j-k8l7m6n5o4p3/cortez-mens-shoes-4R5T6Y.png"
-    },
-    {
-        "id": 10,
-        "name": "Nike Metcon 8",
-        "description": "The Nike Metcon 8 is designed for cross-training with stability and durability in mind.",
-        "price": 130.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.4,
-        "colors": ["black", "white", "orange"],
-        "features": ["Wide heel base", "Rope-wrap traction", "Removable Hyperlift insert"],
-        "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b9c8d7e6-f5g4-3h2i-1j0k-l9m8n7o6p5q4/metcon-8-mens-training-shoes-2X3C4V.png"
+        "image": "https://assets.cat5.com/images/catalog/products/4/7/2/1/5/1-1001-cat-threshold-steel-toe-waterproof-black.jpg?v=61467"
     },
     {
         "id": 11,
@@ -137,10 +90,19 @@
         "category": "Electronics",
         "brand": "Apple",
         "rating": 4.8,
-        "colors": ["silver", "space gray", "starlight", "midnight"],
-        "features": ["M2 chip", "13.6-inch Liquid Retina display", "18-hour battery life"],
+        "colors": [
+            "silver",
+            "space gray",
+            "starlight",
+            "midnight"
+        ],
+        "features": [
+            "M2 chip",
+            "13.6-inch Liquid Retina display",
+            "18-hour battery life"
+        ],
         "inSock": true,
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202206?wid=904&hei=840"
+        "image": "https://m.media-amazon.com/images/I/719C6bJv8jL._UF894,1000_QL80_.jpg"
     },
     {
         "id": 12,
@@ -150,10 +112,17 @@
         "category": "Electronics",
         "brand": "Dell",
         "rating": 4.6,
-        "colors": ["platinum silver", "frost white"],
-        "features": ["11th Gen Intel Core", "13.4-inch FHD+ display", "Ultra-thin bezels"],
+        "colors": [
+            "platinum silver",
+            "frost white"
+        ],
+        "features": [
+            "11th Gen Intel Core",
+            "13.4-inch FHD+ display",
+            "Ultra-thin bezels"
+        ],
         "inSock": true,
-        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/13-9315/media-gallery/notebook-xps-13-9315-nt-silver-gallery-4.psd"
+        "image": "https://m.media-amazon.com/images/I/710EGJBdIML.jpg"
     },
     {
         "id": 13,
@@ -163,10 +132,17 @@
         "category": "Electronics",
         "brand": "HP",
         "rating": 4.5,
-        "colors": ["nightfall black", "natural silver"],
-        "features": ["360-degree hinge", "OLED display option", "Bang & Olufsen audio"],
+        "colors": [
+            "nightfall black",
+            "natural silver"
+        ],
+        "features": [
+            "360-degree hinge",
+            "OLED display option",
+            "Bang & Olufsen audio"
+        ],
         "inSock": false,
-        "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07917865.png"
+        "image": "https://mt.studio.ps/web/image/product.template/10013/image_1024?unique=9acde00"
     },
     {
         "id": 14,
@@ -176,88 +152,16 @@
         "category": "Electronics",
         "brand": "Lenovo",
         "rating": 4.7,
-        "colors": ["black"],
-        "features": ["12th Gen Intel Core", "14-inch WUXGA display", "MIL-STD-810H tested"],
+        "colors": [
+            "black"
+        ],
+        "features": [
+            "12th Gen Intel Core",
+            "14-inch WUXGA display",
+            "MIL-STD-810H tested"
+        ],
         "inSock": true,
-        "image": "https://p3-ofp.static.pub/fes/cms/2022/05/17/h3k8w9x7qwrrj8o7y2kx7v8hzx9xqw558696.png"
-    },
-    {
-        "id": 15,
-        "name": "ASUS ROG Zephyrus G14",
-        "description": "The ROG Zephyrus G14 is a compact gaming laptop that doesn't compromise on performance.",
-        "price": 1449.00,
-        "category": "Electronics",
-        "brand": "ASUS",
-        "rating": 4.6,
-        "colors": ["moonlight white", "eclipse gray"],
-        "features": ["AMD Ryzen 9", "NVIDIA RTX 3060", "AniMe Matrix display"],
-        "inSock": true,
-        "image": "https://dlcdnwebimgs.asus.com/gain/c2c16650-8977-4a5a-9b48-3e8b1c0b2c0d/w717/h525"
-    },
-    {
-        "id": 16,
-        "name": "Microsoft Surface Laptop 5",
-        "description": "The Surface Laptop 5 offers premium design and performance for productivity and creativity.",
-        "price": 999.00,
-        "category": "Electronics",
-        "brand": "Microsoft",
-        "rating": 4.4,
-        "colors": ["platinum", "matte black", "sage", "sandstone"],
-        "features": ["12th Gen Intel Core", "PixelSense touchscreen", "Alcantara keyboard"],
-        "inSock": false,
-        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQG"
-    },
-    {
-        "id": 17,
-        "name": "Acer Swift 3",
-        "description": "The Acer Swift 3 provides excellent value with solid performance and all-day battery life.",
-        "price": 649.00,
-        "category": "Electronics",
-        "brand": "Acer",
-        "rating": 4.2,
-        "colors": ["silver", "gold"],
-        "features": ["AMD Ryzen 7", "14-inch Full HD IPS", "Fast charging"],
-        "inSock": true,
-        "image": "https://static.acer.com/up/Resource/Acer/Laptops/Swift_3/Images/20210526/acer-swift-3-sf314-43-silver-01.png"
-    },
-    {
-        "id": 18,
-        "name": "Razer Blade 15",
-        "description": "The Razer Blade 15 is a premium gaming laptop with desktop-class performance in a thin profile.",
-        "price": 1799.00,
-        "category": "Electronics",
-        "brand": "Razer",
-        "rating": 4.5,
-        "colors": ["black"],
-        "features": ["Intel Core i7", "NVIDIA RTX 3070", "144Hz QHD display"],
-        "inSock": true,
-        "image": "https://assets2.razerzone.com/images/blade-15-advanced/blade-15-advanced-hero-mobile.jpg"
-    },
-    {
-        "id": 19,
-        "name": "LG Gram 17",
-        "description": "The LG Gram 17 combines a large 17-inch display with ultrabook portability.",
-        "price": 1399.00,
-        "category": "Electronics",
-        "brand": "LG",
-        "rating": 4.3,
-        "colors": ["silver"],
-        "features": ["17-inch WQXGA display", "Ultra-lightweight", "Thunderbolt 4"],
-        "inSock": false,
-        "image": "https://www.lg.com/us/images/laptops/md07501562/gallery/medium01.jpg"
-    },
-    {
-        "id": 20,
-        "name": "Alienware m15 R7",
-        "description": "The Alienware m15 R7 delivers high-end gaming performance with customizable RGB lighting.",
-        "price": 1899.00,
-        "category": "Electronics",
-        "brand": "Alienware",
-        "rating": 4.4,
-        "colors": ["dark side of the moon", "lunar light"],
-        "features": ["12th Gen Intel Core i7", "NVIDIA RTX 3080", "Advanced cooling"],
-        "inSock": true,
-        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-m15-r7/media-gallery/notebook-alienware-m15-r7-bk-gallery-1.psd"
+        "image": "https://p4-ofp.static.pub/fes/cms/2021/12/21/hi9kt74zu0j149fpktzauretq73kyh345921.jpg"
     },
     {
         "id": 21,
@@ -267,10 +171,18 @@
         "category": "Furniture",
         "brand": "IKEA",
         "rating": 4.3,
-        "colors": ["white stain", "brown stain", "black-brown"],
-        "features": ["Solid pine wood", "Extendable design", "Traditional style"],
+        "colors": [
+            "white stain",
+            "brown stain",
+            "black-brown"
+        ],
+        "features": [
+            "Solid pine wood",
+            "Extendable design",
+            "Traditional style"
+        ],
         "inSock": true,
-        "image": "https://www.ikea.com/us/en/images/products/hemnes-dining-table-white-stain__0737092_pe741020_s5.jpg"
+        "image": "https://www.ikea-club.org/images/productcatalog/gallery/30176286/2.jpg"
     },
     {
         "id": 22,
@@ -280,10 +192,17 @@
         "category": "Furniture",
         "brand": "West Elm",
         "rating": 4.5,
-        "colors": ["walnut", "white oak"],
-        "features": ["Kiln-dried wood", "Mid-century design", "Seats 4-6 people"],
+        "colors": [
+            "walnut",
+            "white oak"
+        ],
+        "features": [
+            "Kiln-dried wood",
+            "Mid-century design",
+            "Seats 4-6 people"
+        ],
         "inSock": false,
-        "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202142/0018/mid-century-dining-table-walnut-c.jpg"
+        "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202520/0005/extra-deep-mid-century-extendable-dining-table-72-ada-q.jpg"
     },
     {
         "id": 23,
@@ -293,230 +212,523 @@
         "category": "Furniture",
         "brand": "Pottery Barn",
         "rating": 4.6,
-        "colors": ["seadrift", "rustic mahogany"],
-        "features": ["Reclaimed pine wood", "Farmhouse style", "Handcrafted details"],
+        "colors": [
+            "seadrift",
+            "rustic mahogany"
+        ],
+        "features": [
+            "Reclaimed pine wood",
+            "Farmhouse style",
+            "Handcrafted details"
+        ],
         "inSock": true,
-        "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202139/0002/benchwright-dining-table-c.jpg"
-    },
-    {
-        "id": 24,
-        "name": "Ashley Furniture Grindleburg Dining Table",
-        "description": "Counter-height dining table with built-in storage and a vintage industrial design.",
-        "price": 449.00,
-        "category": "Furniture",
-        "brand": "Ashley Furniture",
-        "rating": 4.2,
-        "colors": ["antique white", "light brown"],
-        "features": ["Counter height", "Built-in storage", "Industrial style"],
-        "inSock": true,
-        "image": "https://images.ashleyfurniture.com/is/image/AsheleyFurniture/D754-13-ANGLE-SW-P1-KO"
-    },
-    {
-        "id": 25,
-        "name": "CB2 Silverado Dining Table",
-        "description": "Modern chrome and glass dining table with a sleek contemporary design.",
-        "price": 999.00,
-        "category": "Furniture",
-        "brand": "CB2",
-        "rating": 4.4,
-        "colors": ["chrome", "black"],
-        "features": ["Tempered glass top", "Chrome legs", "Contemporary design"],
-        "inSock": false,
-        "image": "https://images.cb2.com/is/image/CB2/SilveradoDiningTableSHF16"
-    },
-    {
-        "id": 26,
-        "name": "Wayfair Foundstone Barossa Valley Dining Table",
-        "description": "Rustic farmhouse dining table with a distressed finish and X-base design.",
-        "price": 379.00,
-        "category": "Furniture",
-        "brand": "Wayfair",
-        "rating": 4.1,
-        "colors": ["distressed gray", "antique white"],
-        "features": ["Rubberwood construction", "X-base design", "Distressed finish"],
-        "inSock": true,
-        "image": "https://secure.img1-cg.wfcdn.com/im/30815279/resize-h755-w755%5Ecompr-r85/1394/139450567/foundstone-barossa-valley-dining-table.jpg"
-    },
-    {
-        "id": 27,
-        "name": "Crate & Barrel Parsons Dining Table",
-        "description": "Minimalist rectangular dining table with clean lines and a versatile design.",
-        "price": 699.00,
-        "category": "Furniture",
-        "brand": "Crate & Barrel",
-        "rating": 4.5,
-        "colors": ["white", "grey", "dark steel"],
-        "features": ["MDF top", "Steel legs", "Minimalist design"],
-        "inSock": true,
-        "image": "https://images.crateandbarrel.com/is/image/Crate/ParsonsDiningTableWhite72inSHF16"
-    },
-    {
-        "id": 28,
-        "name": "World Market Rustic Brown Wood Dining Table",
-        "description": "Solid acacia wood dining table with a live edge design and natural finish.",
-        "price": 849.00,
-        "category": "Furniture",
-        "brand": "World Market",
-        "rating": 4.3,
-        "colors": ["natural brown"],
-        "features": ["Solid acacia wood", "Live edge design", "Natural grain patterns"],
-        "inSock": false,
-        "image": "https://assets.worldmarket.com/is/image/WorldMarket/71234_XXX_v1"
-    },
-    {
-        "id": 29,
-        "name": "HomePop Glass Top Dining Table",
-        "description": "Contemporary glass-top dining table with a sculptural metal base.",
-        "price": 529.00,
-        "category": "Furniture",
-        "brand": "HomePop",
-        "rating": 4.0,
-        "colors": ["silver", "gold"],
-        "features": ["Tempered glass top", "Metal base", "Contemporary style"],
-        "inSock": true,
-        "image": "https://images.homedepot-static.com/productImages/bc8b7a4f-6c2a-4c3e-9b5a-8d7f6e5c4b3a/svn/homepop-dining-tables-dp1845-64_1000.jpg"
-    },
-    {
-        "id": 30,
-        "name": "Article Seno Dining Table",
-        "description": "Scandinavian-inspired oval dining table with tapered legs and clean lines.",
-        "price": 899.00,
-        "category": "Furniture",
-        "brand": "Article",
-        "rating": 4.6,
-        "colors": ["walnut", "oak"],
-        "features": ["Oval shape", "Tapered legs", "Scandinavian design"],
-        "inSock": true,
-        "image": "https://images.article.com/ar_3:2,c_fill,dpr_auto,f_auto,g_center,q_auto,w_720/v1/product_assets/98/9846/9846-1629917739"
+        "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202528/0048/benchwright-dining-table-74-1-c.jpg"
     },
     {
         "id": 31,
-        "name": "Nike Air Max 90",
-        "description": "The Nike Air Max 90 stays true to its OG running roots with iconic Waffle sole and stitched overlays.",
-        "price": 90.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.5,
-        "colors": ["white", "black", "red"],
-        "features": ["Visible Air cushioning", "Waffle sole", "Leather and textile upper"],
+        "name": "Sony Bravia XR A80K OLED TV",
+        "description": "Experience stunning picture quality with the Sony Bravia XR A80K OLED TV, featuring self-illuminating pixels.",
+        "price": 1799.00,
+        "category": "Electronics",
+        "brand": "Sony",
+        "rating": 4.9,
+        "colors": [
+            "black"
+        ],
+        "features": [
+            "OLED display",
+            "Cognitive Processor XR",
+            "Google TV"
+        ],
         "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/zwxes8uud05rkuei1mpt/air-max-90-mens-shoes-6n3vKB.png"
+        "image": "https://www.sony.ca/image/1e03508feeb01ba723296e37d12bd865?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9"
     },
     {
         "id": 32,
-        "name": "Nike Zoom Freak 4",
-        "description": "Giannis's signature shoe built for his unique playing style with responsive Zoom Air cushioning.",
-        "price": 120.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.4,
-        "colors": ["green", "white", "black"],
-        "features": ["Zoom Air in forefoot", "Multi-directional traction", "Lightweight design"],
-        "inSock": false,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c5ea8db6-4b85-4c8a-9f2d-8e1b9c0d3e2f/zoom-freak-4-basketball-shoes-7H8J9K.png"
+        "name": "Samsung QN90B Neo QLED TV",
+        "description": "The Samsung QN90B Neo QLED TV delivers incredible brightness and contrast with Quantum Mini LED technology.",
+        "price": 1499.00,
+        "category": "Electronics",
+        "brand": "Samsung",
+        "rating": 4.7,
+        "colors": [
+            "titanium silver"
+        ],
+        "features": [
+            "Quantum Mini LED",
+            "Neo Quantum Processor",
+            "Anti-reflection screen"
+        ],
+        "inSock": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPfB2oDyqguZ88_NuQnfdT5tLQJ_Q4dyl8Xx5-ZdFwBP1a2_Z96vhPXNbComtxivjQF8&usqp=CAU"
     },
     {
         "id": 33,
-        "name": "Framework Laptop 13",
-        "description": "The Framework Laptop 13 is a modular, repairable laptop designed for sustainability and customization.",
-        "price": 1049.00,
+        "name": "LG C2 OLED TV",
+        "description": "The LG C2 OLED TV offers perfect black levels and infinite contrast for an immersive viewing experience.",
+        "price": 1599.00,
         "category": "Electronics",
-        "brand": "Framework",
-        "rating": 4.5,
-        "colors": ["silver"],
-        "features": ["Modular design", "12th Gen Intel Core", "User-replaceable parts"],
-        "inSock": false,
-        "image": "https://frame.work/cdn/shop/products/laptop-diy-edition-configurator-gallery-1.jpg"
-    },
-    {
-        "id": 34,
-        "name": "System76 Lemur Pro",
-        "description": "The Lemur Pro is an ultrabook designed for Linux with excellent battery life and performance.",
-        "price": 1098.00,
-        "category": "Electronics",
-        "brand": "System76",
-        "rating": 4.3,
-        "colors": ["black"],
-        "features": ["Ubuntu pre-installed", "14.1-inch display", "Open source firmware"],
-        "inSock": true,
-        "image": "https://system76.com/images/laptops/lemur/lemur-pro-hero.jpg"
-    },
-    {
-        "id": 35,
-        "name": "Room & Board Parsons Coffee Table",
-        "description": "Simple and versatile coffee table with clean lines that complements any living space.",
-        "price": 649.00,
-        "category": "Furniture",
-        "brand": "Room & Board",
-        "rating": 4.4,
-        "colors": ["walnut", "white", "charcoal"],
-        "features": ["Solid wood top", "Steel base", "Multiple finish options"],
-        "inSock": true,
-        "image": "https://www.roomandboard.com/images/made_to_order/parsons_coffee_table_walnut.jpg"
-    },
-    {
-        "id": 36,
-        "name": "Restoration Hardware Flatiron Dining Table",
-        "description": "Industrial-inspired dining table with reclaimed wood top and steel base.",
-        "price": 1895.00,
-        "category": "Furniture",
-        "brand": "Restoration Hardware",
-        "rating": 4.7,
-        "colors": ["natural oak", "weathered oak"],
-        "features": ["Reclaimed wood", "Steel base", "Industrial design"],
-        "inSock": false,
-        "image": "https://rh.com/catalog/product/product.jsp?productId=prod2130455"
-    },
-    {
-        "id": 37,
-        "name": "Nike Vaporfly Next% 2",
-        "description": "Elite racing shoe designed to help you run faster with ZoomX foam and carbon fiber plate.",
-        "price": 250.00,
-        "category": "Footwear",
-        "brand": "Nike",
+        "brand": "LG",
         "rating": 4.8,
-        "colors": ["white", "pink", "blue"],
-        "features": ["ZoomX foam", "Carbon fiber plate", "Atomknit upper"],
-        "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/42c3bbaa-be47-4b6b-9f2e-8db6b9c8f0d1/zoomx-vaporfly-next-2-road-racing-shoes-2X3Y4Z.png"
+        "colors": [
+            "black"
+        ],
+        "features": [
+            "OLED display",
+            "α9 Gen5 AI Processor",
+            "webOS smart platform"
+        ],
+        "inSock": false,
+        "image": "https://www.lg.com/content/dam/channel/wcms/hk_en/images/tv/oled42c2pca_ahkg_echk_hk_en_c/gallery/large03.jpg"
     },
     {
-        "id": 38,
-        "name": "Samsung Galaxy Book3 Pro",
-        "description": "Premium laptop with AMOLED display and all-day battery life for productivity on the go.",
-        "price": 1349.00,
+        "id": 41,
+        "name": "LEGO NASA Apollo Saturn V",
+        "description": "A detailed 1,969-piece model of the NASA Apollo Saturn V rocket for display or play.",
+        "price": 119.99,
+        "category": "Toys",
+        "brand": "LEGO",
+        "rating": 4.9,
+        "colors": [
+            "white",
+            "black",
+            "gray"
+        ],
+        "features": [
+            "1969 pieces",
+            "1 meter tall",
+            "Educational"
+        ],
+        "inSock": true,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt3dddc992e5559ddf/21309.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Dyson Supersonic Hair Dryer",
+        "description": "Fast drying, intelligent heat control, and engineered for different hair types.",
+        "price": 429.99,
+        "category": "Beauty",
+        "brand": "Dyson",
+        "rating": 4.8,
+        "colors": [
+            "iron",
+            "fuchsia"
+        ],
+        "features": [
+            "Fast drying",
+            "Heat control",
+            "Magnetic attachments"
+        ],
+        "inSock": true,
+        "image": "https://bfasset.costco-static.com/U447IH35/as/rpgvws7z49v26pm3pjks6t/4000198451-847__1?auto=webp&amp;format=jpg&width=1200&height=1200&fit=bounds&canvas=1200,1200"
+    },
+    {
+        "id": 43,
+        "name": "Casio G-Shock GA2100",
+        "description": "Durable analog-digital watch with carbon core guard structure and 200m water resistance.",
+        "price": 99.00,
+        "category": "Accessories",
+        "brand": "Casio",
+        "rating": 4.7,
+        "colors": [
+            "black",
+            "red",
+            "green"
+        ],
+        "features": [
+            "Shock resistant",
+            "200m water resistance",
+            "Carbon core"
+        ],
+        "inSock": true,
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/us-assets/GA-2100-1A1.png.transform/main-visual-sp/image.png"
+    },
+    {
+        "id": 44,
+        "name": "Kindle Paperwhite (11th Gen)",
+        "description": "Waterproof e-reader with a 6.8-inch display, adjustable warm light, and weeks of battery life.",
+        "price": 139.99,
+        "category": "Books",
+        "brand": "Amazon",
+        "rating": 4.8,
+        "colors": [
+            "black"
+        ],
+        "features": [
+            "6.8-inch display",
+            "Waterproof",
+            "Adjustable warm light"
+        ],
+        "inSock": true,
+        "image": "https://techgadgetscanada.com/wp-content/uploads/2021/11/IMG_4573.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Fender Player Stratocaster",
+        "description": "Classic electric guitar with three single-coil pickups and a modern C-shaped neck.",
+        "price": 849.99,
+        "category": "Musical Instruments",
+        "brand": "Fender",
+        "rating": 4.9,
+        "colors": [
+            "sunburst",
+            "black",
+            "white"
+        ],
+        "features": [
+            "Alder body",
+            "Maple neck",
+            "3 single-coil pickups"
+        ],
+        "inSock": true,
+        "image": "https://www.sweelee.com.sg/cdn/shop/products/F03-014-4502-506_1538547065547.jpg?v=1538547745&width=2048"
+    },
+    {
+        "id": 46,
+        "name": "Specialized Allez Road Bike",
+        "description": "Lightweight aluminum road bike for fitness, commuting, or entry-level racing.",
+        "price": 999.99,
+        "category": "Sports",
+        "brand": "Specialized",
+        "rating": 4.7,
+        "colors": [
+            "red",
+            "black",
+            "silver"
+        ],
+        "features": [
+            "Aluminum frame",
+            "Shimano components",
+            "Lightweight"
+        ],
+        "inSock": true,
+        "image": "https://assets.specialized.com/i/specialized/90022-70_ALLEZ-E5-DISC-SMK-WHT-SILDST_HERO?$scom-pdp-product-image-xl$&fmt=webp"
+    },
+    {
+        "id": 47,
+        "name": "Samsonite Winfield 3 Luggage Set",
+        "description": "Durable, lightweight 3-piece luggage set with spinner wheels and TSA locks.",
+        "price": 329.99,
+        "category": "Travel",
+        "brand": "Samsonite",
+        "rating": 4.8,
+        "colors": [
+            "charcoal",
+            "blue",
+            "red"
+        ],
+        "features": [
+            "Spinner wheels",
+            "TSA locks",
+            "Lightweight"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/A1La1+WKYTL._UY1000_.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Cuisinart 14-Cup Food Processor",
+        "description": "Versatile food processor with a powerful motor and extra-large feed tube.",
+        "price": 229.00,
+        "category": "Kitchen",
+        "brand": "Cuisinart",
+        "rating": 4.7,
+        "colors": [
+            "brushed stainless steel"
+        ],
+        "features": [
+            "14-cup capacity",
+            "Extra-large feed tube",
+            "Dishwasher safe"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/71VDt77YGzL.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Monstera Deliciosa Plant",
+        "description": "Popular indoor plant with large, split leaves. Great for home or office décor.",
+        "price": 39.99,
+        "category": "Home & Garden",
+        "brand": "Costa Farms",
+        "rating": 4.8,
+        "colors": [
+            "green"
+        ],
+        "features": [
+            "Air purifying",
+            "Easy care",
+            "Decorative"
+        ],
+        "inSock": true,
+        "image": "https://plantersplace.com/wp-content/uploads/2022/08/20200309_110255-scaled.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Ravensburger The Earth 3D Puzzle Globe",
+        "description": "540-piece 3D puzzle globe for geography lovers and puzzle enthusiasts.",
+        "price": 34.99,
+        "category": "Toys",
+        "brand": "Ravensburger",
+        "rating": 4.7,
+        "colors": [
+            "blue",
+            "green",
+            "white"
+        ],
+        "features": [
+            "3D puzzle",
+            "540 pieces",
+            "Educational"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/71FPzwEx-xL._UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Apple Watch Series 8",
+        "description": "The Apple Watch Series 8 features advanced health monitoring, a larger display, and improved durability.",
+        "price": 399.00,
+        "category": "Electronics",
+        "brand": "Apple",
+        "rating": 4.9,
+        "colors": [
+            "midnight",
+            "starlight",
+            "silver",
+            "red"
+        ],
+        "features": [
+            "Blood oxygen app",
+            "ECG app",
+            "Always-On Retina display"
+        ],
+        "inSock": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOQpdJ-xviEZZgzkmTuHIkyKfJbiEHgNHOw&s"
+    },
+    {
+        "id": 52,
+        "name": "Samsung Galaxy Watch 5",
+        "description": "The Samsung Galaxy Watch 5 offers advanced health tracking, a sleek design, and long battery life.",
+        "price": 279.99,
         "category": "Electronics",
         "brand": "Samsung",
-        "rating": 4.4,
-        "colors": ["graphite", "beige"],
-        "features": ["16-inch AMOLED display", "13th Gen Intel Core", "S Pen support"],
+        "rating": 4.7,
+        "colors": [
+            "graphite",
+            "silver",
+            "pink gold"
+        ],
+        "features": [
+            "BioActive Sensor",
+            "Sleep tracking",
+            "Durable design"
+        ],
         "inSock": true,
-        "image": "https://images.samsung.com/is/image/samsung/p6pim/us/np960xfg-ka1us/gallery/us-galaxy-book3-pro-16-np960xfg-ka1us-thumb-534306847"
+        "image": "https://m.media-amazon.com/images/I/51dLdIOuj0L._UF1000,1000_QL80_.jpg"
     },
     {
-        "id": 39,
-        "name": "Herman Miller Eames Dining Table",
-        "description": "Iconic mid-century modern dining table with molded plywood top and elegant base.",
-        "price": 2495.00,
+        "id": 53,
+        "name": "Garmin Venu 2",
+        "description": "The Garmin Venu 2 features a bright AMOLED display, advanced health monitoring, and built-in GPS.",
+        "price": 399.99,
+        "category": "Electronics",
+        "brand": "Garmin",
+        "rating": 4.6,
+        "colors": [
+            "black",
+            "white",
+            "gray"
+        ],
+        "features": [
+            "AMOLED display",
+            "Health monitoring",
+            "Built-in GPS"
+        ],
+        "inSock": true,
+        "image": "https://res.garmin.com/en/products/010-02430-11/v/cf-lg-64d1514c-ad5a-470e-882d-dd817717bad2.jpg"
+    },
+    {
+        "id":54,
+        "name": "Football Wilson",
+        "description": "Official size and weight football made from durable synthetic leather for all-weather play.",
+        "price": 29.99,
+        "category": "Sports",
+        "brand": "Wilson",  
+        "rating": 4.5,
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "features": [
+            "Official size and weight",
+            "Durable synthetic leather",
+            "All-weather play"
+        ],
+        "inSock": true,
+        "image": "https://www.wilson.com/en-gb/media/catalog/product/article_images/WTF1003B_/WTF1003B__35b34810029253e671912c63d600e04e.png"
+    },
+    {
+        "id": 55,
+        "name": "Adidas Ultraboost 22",
+        "description": "High-performance running shoes with responsive cushioning and a breathable Primeknit upper.",
+        "price": 180.00,
+        "category": "Footwear",
+        "brand": "Adidas",
+        "rating": 4.7,
+        "colors": [
+            "black",
+            "white",
+            "blue"
+        ],
+        "features": [
+            "Boost cushioning",
+            "Primeknit upper",
+            "Continental rubber outsole"
+        ],
+        "inSock": false,
+        "image": "https://cdn.mart.ps/135294-thickbox_default/adidas-ultraboost-22.jpg"
+    },
+
+    {
+        "id": 56,
+        "name": "The North Face Borealis Backpack",
+        "description": "Durable and versatile backpack with multiple compartments and padded laptop sleeve.",
+        "price": 89.00,
+        "category": "Accessories",
+        "brand": "The North Face",
+        "rating": 4.8,
+        "colors": [
+            "black",
+            "blue",
+            "red"
+        ],
+        "features": [
+            "Multiple compartments",
+            "Padded laptop sleeve",
+            "Durable design"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/413soLHfVaL._SY1000_.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Sony WH-1000XM4 Wireless Headphones",
+        "description": "Industry-leading noise-canceling headphones with exceptional sound quality and comfort.",
+        "price": 349.99,
+        "category": "Electronics",
+        "brand": "Sony",
+        "rating": 4.9,
+        "colors": [
+            "black",
+            "silver",
+            "blue"
+        ],
+        "features": [
+            "Noise-canceling",
+            "30-hour battery life",
+            "Touch controls"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/61UgZSYRllL.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+        "description": "Versatile kitchen appliance that combines 7 cooking functions in one, including pressure cooking, slow cooking, and more.",
+        "price": 99.99,
+        "category": "Kitchen",
+        "brand": "Instant Pot",
+        "rating": 4.8,
+        "colors": [
+            "stainless steel"
+        ],
+        "features": [
+            "7-in-1 functionality",
+            "14 one-touch programs",
+            "Easy-to-clean"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/71YfFzJ+ySL.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Fitbit Charge 5",
+        "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and sleep tracking.",
+        "price": 149.95,
+        "category": "Electronics",
+        "brand": "Fitbit",
+        "rating": 4.6,
+        "colors": [
+            "black",
+            "lunar white",
+            "steel blue"
+        ],
+        "features": [
+            "Built-in GPS",
+            "Heart rate monitoring",
+            "Sleep tracking"
+        ],
+        "inSock": true,
+        "image": "https://m.media-amazon.com/images/I/51YjNQZ0RDL.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Herman Miller Aeron Chair",
+        "description": "Ergonomic office chair with adjustable features and breathable mesh design for all-day comfort.",
+        "price": 1395.00,
         "category": "Furniture",
         "brand": "Herman Miller",
-        "rating": 4.8,
-        "colors": ["walnut", "ebony", "white"],
-        "features": ["Molded plywood", "Iconic design", "Premium materials"],
+        "rating": 4.9,
+        "colors": [
+            "black",
+            "graphite",
+            "mineral"
+        ],
+        "features": [
+            "Ergonomic design",
+            "Adjustable features",
+            "Breathable mesh"
+        ],
         "inSock": false,
-        "image": "https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/eames_molded_plywood_dining_table/eames_molded_plywood_dining_table_hero.jpg"
+        "image": "https://m.media-amazon.com/images/I/71VVk7m8aIL.jpg"
     },
     {
-        "id": 40,
-        "name": "Nike SB Dunk Low Pro",
-        "description": "The Nike SB Dunk Low Pro is built for skateboarding with enhanced padding and durable construction.",
-        "price": 100.00,
-        "category": "Footwear",
-        "brand": "Nike",
-        "rating": 4.6,
-        "colors": ["black", "white", "green"],
-        "features": ["Zoom Air cushioning", "Durable suede upper", "Grippy outsole"],
+        "id": 61,
+        "name": "Nikon D3500 DSLR Camera",
+        "description": "Entry-level DSLR camera with a 24.2MP sensor, full HD video recording, and easy-to-use features.",
+        "price": 499.99,
+        "category": "Electronics",
+        "brand": "Nikon",
+        "rating": 4.7,
+        "colors": [
+            "black"
+        ],
+        "features": [
+            "24.2MP sensor",
+            "Full HD video",
+            "Lightweight design"
+        ],
         "inSock": true,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e8c9d0a1-b2c3-4d5e-6f7g-8h9i0j1k2l3m/sb-dunk-low-pro-skate-shoes-4A5B6C.png"
+        "image": "https://m.media-amazon.com/images/I/61arhoZduvL.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Breville Barista Express Espresso Machine",
+        "description": "All-in-one espresso machine with built-in grinder, steam wand, and customizable settings for coffee lovers.",
+        "price": 699.95,
+        "category": "Kitchen",
+        "brand": "Breville",
+        "rating": 4.8,
+        "colors": [
+            "stainless steel"
+        ],
+        "features": [
+            "Built-in grinder",
+            "Steam wand",
+            "Customizable settings"
+        ],
+        "inSock": true,
+        "image": "https://www.seriouseats.com/thmb/e3XGNX1AlnHXrdxEc7s-yVPr6rQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/badge-sea-product-breville-barista-express-impress-espresso-machine-nsimpson-3341-c2258f63a2074a659f9e7bdc016f5ecf-55131e0fd1fc43b580106c53da08d84c.jpg"
     }
 ]

@@ -2,9 +2,10 @@
 import { useSearchParams } from 'next/navigation';
 import React, { useEffect, useState } from 'react'
 import ProductCard from './ProductCard';
-
+import { Product } from '@/types/product';
+import products from './../app/data/products.json'
 const SearchResults = () => {
-    const [results, setResults] = useState([]);
+    const [results, setResults] = useState<Product[]>(products);
     const [loading, setLoading] = useState(false);
     const searchParams = useSearchParams();
 
@@ -33,7 +34,7 @@ const SearchResults = () => {
         if (query) {
             fetchProducts();
         } else {
-            setResults([]);
+            setResults(products);
         }
     }, [searchParams])
 
@@ -45,7 +46,7 @@ const SearchResults = () => {
     }
     return (
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
-            {results.map((product: any) => (
+            {results.map((product: Product) => (
                 <ProductCard key={product.id} product={product} />
             ))}
         </div>
