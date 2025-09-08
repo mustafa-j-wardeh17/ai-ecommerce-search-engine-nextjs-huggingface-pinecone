@@ -33,7 +33,7 @@ export default function RootLayout({
               <span className="inline-flex h-8 w-8 items-center justify-center rounded bg-black text-white dark:bg-white dark:text-black text-sm font-bold">AI</span>
               <span className="text-lg font-semibold">E‑commerce Search</span>
             </div>
-            <a href="https://github.com" className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200">GitHub</a>
+            <a href="https://github.com/mustafa-j-wardeh17" target="_blank" rel="noreferrer" className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200">GitHub</a>
           </div>
         </header>
         <main>{children}</main>
